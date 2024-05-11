@@ -23,3 +23,10 @@ HuggingFace의 autotrain 모듈을 이용해 LLaMA2 모델을 파인튜닝 합�
 - 평가
   
 BLEU 스코어를 이용해 모델을 평가합니다.
+
+### 주요기술
+
+- python
+- AutoTrain
+- NLTK
+- Transformers
