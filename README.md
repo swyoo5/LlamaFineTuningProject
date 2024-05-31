@@ -2,9 +2,9 @@
 
 ## 파일 설명
 
-transform_data : 데이터를 적합한 형태로 정제한 코드
+transform_data : 데이터를 파인튜닝에 적합한 형태로 정제한 파일
 
-translate : 파인튜닝을 진행한 후, 번역문을 출력하고 BLEU 스코어를 측정한 코드
+translate : Llama2 모델 파인튜닝 후, 번역문을 출력하고 BLEU 스코어를 측정한 파일
 
 ## 내용
 
